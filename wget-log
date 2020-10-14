@@ -1,6 +1,0 @@
---2020-08-24 15:42:14--  https://storage.googleapis.com/kagglesdsdata/datasets%2F108201%2F258315%2FLung%20Segmentation%2FCXR_png%2FCHNCXR_0009_0.png?GoogleAccessId=databundle-worker-v2@kaggle-161607.iam.gserviceaccount.com
-Resolving storage.googleapis.com (storage.googleapis.com)... 2404:6800:4002:80b::2010, 2404:6800:4002:80d::2010, 2404:6800:4002:80e::2010, ...
-Connecting to storage.googleapis.com (storage.googleapis.com)|2404:6800:4002:80b::2010|:443... connected.
-HTTP request sent, awaiting response... 403 Forbidden
-2020-08-24 15:42:15 ERROR 403: Forbidden.
-
